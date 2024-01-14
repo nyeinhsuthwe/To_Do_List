@@ -1,0 +1,20 @@
+{
+  "todolist": [
+    {
+      "id": "e64ca7d2-0c14-d11b-d22c-27c715e6843e",
+      "task": "Go Shopping",
+      "complete status": "true",
+      "complete": false
+    },
+    {
+      "id": "efeaf59f-4d6c-d541-dc75-bf79c1b4de15",
+      "task": "Cooking",
+      "complete status": "true"
+    },
+    {
+      "id": "340b8aa1-7fa8-6148-f77f-57e0099699dd",
+      "task": "Cleaning Room",
+      "complete status": "true"
+    }
+  ]
+}
